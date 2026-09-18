@@ -1,0 +1,39 @@
+# Sunverio Digital
+
+> Weboldalkészítés, hirdetéskezelés, AI asszisztens fejlesztés és weboldal-karbantartás
+> magyar kis- és középvállalkozásoknak. Az oldalak egyszeri vásárlással vagy havi díjas
+> konstrukcióban is megrendelhetők.
+
+Kapcsolat: kapcsolat@sunverio.hu · +36 20 342 6155 · Magyarország · magyar nyelven
+
+## Szolgáltatások
+
+- Weboldalkészítés: egyoldalas bemutatkozó oldaltól az 5 oldalas weboldalig, mobilra
+  optimalizálva, alap keresőoptimalizálással. Webshop 10–50 termékig.
+- Hirdetéskezelés: Google Ads és Meta kampányok beállítása és folyamatos optimalizálása.
+  A hirdetési költségkeret nem része a kezelési díjnak.
+- AI asszisztens fejlesztés: az oldalba épített chat saját tudásbázissal, amely előminősíti
+  az érdeklődőket és elérhetőséget gyűjt.
+- Karbantartás és támogatás: frissítések, biztonsági mentés, tartalommódosítás havi csomagban.
+- CRM beállítás: az érdeklődők egy rendszerben, státuszokkal és emlékeztetőkkel.
+- Extra szolgáltatások: landing oldal, Google Cégprofil beállítás, e-mail automatizáció,
+  weboldal audit.
+
+## Árak (bruttó, forintban)
+
+- Basic weboldal (egyoldalas): 59.900 Ft egyszeri
+- Professional weboldal (max. 5 aloldal): 89.900 Ft egyszeri
+- Webshop Basic (10–20 termék): 119.900 Ft-tól egyszeri
+- Webshop Professional (20–50 termék): 169.900 Ft-tól egyszeri
+- Karbantartás: Basic 5.900 Ft/hó · Plus 10.900 Ft/hó · Business 14.900 Ft/hó
+
+Havi díjas konstrukció: 20.000 Ft induló díj, majd 11 havi részlet. Az első év
+összköltsége 20.000 Ft-tal magasabb az egyszeri árnál (pl. Basic: 20.000 Ft + 11 × 5.445 Ft
+= 79.900 Ft). A 12. hónap után az oldal a megrendelő tulajdonába kerül.
+
+## Oldalak
+
+- [Főoldal](https://demo.kovacspenzugy.hu/): bemutatkozás, munkák, gyakori kérdések, kapcsolat
+- [Szolgáltatások](https://demo.kovacspenzugy.hu/szolgaltatasok.html): mit tartalmaz és hogyan zajlik
+- [Árak](https://demo.kovacspenzugy.hu/arak.html): csomagok, havi díjas konstrukció, karbantartás
+- [Jogi tudnivalók](https://demo.kovacspenzugy.hu/jogi.html): impresszum, adatkezelési tájékoztató
